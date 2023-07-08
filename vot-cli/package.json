@@ -6,7 +6,7 @@
     "minimist": "^1.2.7",
     "multer": "^1.4.5-lts.1",
     "node-downloader-helper": "^2.1.5",
-    "protobufjs": "^7.1.2"
+    "protobufjs": "^7.2.4"
   },
   "name": "vot-cli",
   "version": "1.0.0",
